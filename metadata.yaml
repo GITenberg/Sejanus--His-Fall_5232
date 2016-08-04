@@ -1,0 +1,30 @@
+_repo: Sejanus--His-Fall_5232
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jonson, Ben
+    aliases:
+    - Ionson, Ben
+    - Jonson, Benjamin
+    - Johnson, Ben
+    deathdate: 1637
+    gutenberg_agent_id: '1269'
+    url: http://www.gutenberg.org/2009/agents/1269
+    wikipedia: http://en.wikipedia.org/wiki/Ben_Jonson
+description: ''
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5232'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tragedies'
+- !lcsh 'Sejanus, Lucius Aelius, d. 31 -- Drama'
+- !lcsh 'Rome -- History -- Tiberius, 14-37 -- Drama'
+- !lcc 'PR'
+- GITenberg
+title: 'Sejanus: His Fall'
+url: http://www.gutenberg.org/ebooks/5232
