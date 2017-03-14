@@ -1,5 +1,8 @@
 _repo: Sejanus--His-Fall_5232
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Jonson, Ben
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1269
     wikipedia: http://en.wikipedia.org/wiki/Ben_Jonson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5232#Sejanus--His-Fall
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
 identifiers:
